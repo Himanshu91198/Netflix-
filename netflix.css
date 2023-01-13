@@ -1,0 +1,24 @@
+.container {
+    height: 100vh;  
+}
+.bg-img {
+    background-image: linear-gradient(rgba(2, 2, 2, 0.831), rgba(0, 0, 0, 0.123)),
+    url(Background.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+hr {
+    background-color: grey;
+    height: 10px;
+    margin: 0%;
+}
+.bg-clr {
+    background-color: black;
+}
+.hgt {
+    height: 550px;
+}
+.hgt-1 {
+    height: 900px;
+}
